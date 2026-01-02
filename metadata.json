@@ -1,0 +1,8 @@
+{
+  "name": "Copy of DroidOS Web Simulator",
+  "description": "A high-fidelity Material Design 3 (Android) simulator featuring a functional Gemini-powered Assistant, Task Manager, and system utilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
